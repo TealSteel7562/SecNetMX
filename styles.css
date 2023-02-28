@@ -16,10 +16,14 @@ h1, h2, p {
 
 <!--Main-->
 
-img {
-    display: block;
+.center { 
+display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 50%;
+}
+img {
+    
 
 
 <!--Footer-->
