@@ -1,9 +1,7 @@
 <!--Header-->
 
 <!--Body-->
-body {
-     
-  }
+
 h1, h2, p {
     text-align: center;
     color: rgb(35, 33, 170);
@@ -17,7 +15,7 @@ h1, h2, p {
 <!--Main-->
 
 .center { 
-display: block;
+    display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
