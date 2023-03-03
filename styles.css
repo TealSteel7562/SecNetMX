@@ -1,15 +1,14 @@
-body {background-color: rgb(79, 79, 79);}
+body {
+  background-color: rgb(79, 79, 79);
+  margin: 0;
+  font-family: sans-serif;
+  padding: 20px;
+}
 
 h1, h2, p {
     text-align: center;
     color: whitesmoke;
   }
-
-  body {
-    font-family: sans-serif;
-    padding: 20px;
-  }
-
 
 .center { 
     display: block;
